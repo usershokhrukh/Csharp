@@ -1,0 +1,28 @@
+# Compiled Code
+[Bb]in/
+[Oo]bj/
+
+# VS Code files
+.vscode/
+
+# Packages
+# nuget.g.props and nuget.g.targets
+*.g.props
+*.g.targets
+
+# NuGet
+.nuget/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.localized
+
+# Test Results
+TestResults/
+
+# Visual Studio related files (not in your screenshot but good to have)
+*.user
+*.suo
